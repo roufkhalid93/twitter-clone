@@ -70,7 +70,7 @@ export default function AuthPage() {
             </Col>
             <Col sm={4} className='p-4'>
                 <i className="bi bi-twitter" style={{ fontSize: 50, color: "dodgerblue" }}></i>
-                <p className='mt-5' style={{ fontSize: 64 }}>Happening Now</p>
+                <p className='mt-5' style={{ fontSize: 40 }}>Happening Now</p>
                 <h2 className='my-5' style={{ fontSize: 31 }}>Join Twitter Today</h2>
 
                 <Col sm={5} className='d-grid gap-2'>
